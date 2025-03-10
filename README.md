@@ -28,7 +28,7 @@ The final stage was testing the VST3 plugin in REAPER, a digital audio workstati
 - Applying the custom-built flanger plugin.
 - Tweaking parameters to compare the JUCE implementation with the MATLAB prototype.
 
-(Juce/REAPER_Implementation.png)
+![Flanger](Juce/REAPER_Implementation.png)
 
 ## Installation & Usage
 
